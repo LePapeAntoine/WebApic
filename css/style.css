@@ -1,0 +1,37 @@
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+
+
+    p.signature{
+      
+
+    }
+
+    img.logoBee{
+      width: 50px;
+      height: 50px;
+    }
+    
+ .navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+ /*   @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height:auto;} 
+    }
+*/
+  /*  textarea{
+      width: 45%;
+      height: 30%;
+    }*/

@@ -1,0 +1,1 @@
+Select * into outfile 'C://..' from facture;
